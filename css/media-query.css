@@ -1,0 +1,375 @@
+    @media only screen and (min-width:769px) and (max-width:800px){
+    	#smalloption{
+    		display:none;
+    	}
+		#Container{
+			padding:2% 2% 0;
+			text-align: justify;
+		}
+		#Container:after{
+			padding:2% 2% 0;
+			display: inline-block;
+			width:100%;
+		}
+		#Container .item{
+			text-align:center;
+			display: inline-block;
+			width:30%;
+			margin-bottom: 10px;
+			font-family: Cambria, Georgia, serif;
+		}
+		#Container .mix{
+			text-align:center;
+			display: none;
+			width:30%;
+		}
+		#menu{
+			padding-left: 25px;
+		}
+		#menu .filter{
+			display: inline-block;
+			text-align:center;
+			padding: 5px;
+			margin-top: 2px;
+			font-size: 9px;
+			background: gold;
+			cursor: pointer;
+			color:blue;
+			font-family: Cambria, Georgia, serif;
+		}
+		#menu .filter:hover{
+			background: red;
+			color:white;
+		}
+		#menu .filter.selected{
+			background: green;
+			color:yellow;
+		}
+		.addtocart{
+			color:black;
+			background:azure;
+			padding: 5px;
+			font-family: "times new roman";
+			cursor: pointer;
+		}
+		.addtocart:hover{
+			background: gold;
+			color: red;
+			cursor: pointer;
+		}
+}
+    @media only screen and (min-width:801px) and (max-width:980px){
+    	#smalloption{
+    		display:none;
+    	}
+		#Container{
+			padding:2% 2% 0;
+			text-align: justify;
+		}
+		#Container:after{
+			padding:2% 2% 0;
+			display: inline-block;
+			width:100%;
+		}
+		#Container .item{
+			text-align:center;
+			display: inline-block;
+			width:24%;
+			margin-top: 6px;
+			font-family: Cambria, Georgia, serif;
+		}
+		#Container .mix{
+			text-align:center;
+			display: none;
+			width:24%;
+		}
+		#menu{
+			padding-left: 30px;
+		}
+		#menu .filter{
+			display: inline-block;
+			text-align:center;
+			padding: 9px;
+			background: gold;
+			cursor: pointer;
+			font-size: 11px;
+			color:blue;
+			font-family: Cambria, Georgia, serif;
+		}
+		#menu .filter:hover{
+			background: red;
+			color:white;
+		}
+		#menu .filter.selected{
+			background: green;
+			color:yellow;
+		}
+		.addtocart{
+			color:black;
+			background:azure;
+			padding: 5px;
+			font-family: "times new roman";
+			cursor: pointer;
+		}
+		.addtocart:hover{
+			background: gold;
+			color: red;
+			cursor: pointer;
+		}
+}
+
+    @media only screen and (min-width:981px) and (max-width:1280px){
+    	#smalloption{
+    		display:none;
+    	}
+		#Container{
+			padding:2% 2% 0;
+			text-align: justify;
+		}
+		#Container:after{
+			padding:2% 2% 0;
+			display: inline-block;
+			width:100%;
+		}
+		#Container .item{
+			text-align:center;
+			display: inline-block;
+			width:24%;
+			font-family: Cambria, Georgia, serif;
+		}
+		#Container .mix{
+			text-align:center;
+			display: none;
+			width:24%;
+		}
+		#menu{
+			padding-left: 30px;
+		}
+		#menu .filter{
+			display: inline-block;
+			text-align:left;
+			padding: 10px;
+			background: gold;
+			cursor: pointer;
+			font-size: 14px;
+			color:blue;
+			font-family: Cambria, Georgia, serif;
+		}
+		#menu .filter:hover{
+			background: red;
+			color:white;
+		}
+		#menu .filter.selected{
+			background: green;
+			color:yellow;
+		}
+		.addtocart{
+			color:black;
+			background:azure;
+			padding: 5px;
+			font-family: "times new roman";
+			cursor: pointer;
+		}
+		.addtocart:hover{
+			background: gold;
+			color: red;
+			cursor: pointer;
+		}
+}
+
+
+    @media only screen and (min-width:1281px) and (max-width:9220px){
+    	#smalloption{
+    		display:none;
+    	}
+		#Container{
+			padding:2% 2% 0;
+			text-align: justify;
+		}
+		#Container:after{
+			padding:2% 2% 0;
+			display: inline-block;
+			width:100%;
+		}
+		#Container .item{
+			text-align: center;
+			display: inline-block;
+			width:24%;
+		}
+		#Container .mix{
+			text-align: center;
+			display: none;
+			width:24%;
+		}
+		#menu{
+			padding-left: 30px;
+		}
+		#menu .filter{
+			display: inline-block;
+			text-align:left;
+			padding: 15px;
+			background: gold;
+			cursor: pointer;
+			color: blue;
+		}
+		#menu .filter:hover{
+			background: red;
+			color:white;
+		}
+		#menu .filter.selected{
+			background: green;
+			color:yellow;
+		}
+		.addtocart{
+			color:black;
+			background:azure;
+			padding: 5px;
+			font-family: "times new roman";
+			cursor: pointer;
+		}
+		.addtocart:hover{
+			background: gold;
+			color: red;
+			cursor: pointer;
+		}
+}
+
+
+/**************/
+    @media only screen and (min-width:300px) and (max-width: 480px){
+    	#smalloption{
+    		display:block;
+    	}
+	#menu{
+		display: none;
+	}
+		#Container{
+/*			width: 250px;*/
+			padding:2% 2% 0;
+			text-align: justify;
+		}
+		#Container:after{
+			padding:2% 2% 0;
+			display: inline-block;
+			width:100%;
+		}
+		#Container .item{
+			text-align:center;
+			display: inline-block;
+			width:98%;
+			margin-top: 10px;
+		}
+		#Container .item img{
+			text-align:center;
+			display: inline-block;
+			width:98%;
+		}
+
+		#Container .mix{
+			text-align:center;
+			display: none;
+			width:98%;
+		}
+		#menu{
+			padding-left: 10px;
+		}
+		#menu .filter{
+			display: inline-block;
+			text-align:left;
+			padding: 5px;
+			background: blue;
+			cursor: pointer;
+			color:gold;
+			font-size:8px;
+		}
+		#menu .filter:hover{
+			background: red;
+			color:white;
+		}
+		#menu .filter.selected{
+			background: green;
+			color:yellow;
+		}
+		.addtocart{
+			color:black;
+			background:azure;
+			padding: 5px;
+			font-family: "times new roman";
+			cursor: pointer;
+		}
+		.addtocart:hover{
+			background: gold;
+			color: red;
+			cursor: pointer;
+		}
+}
+
+
+    @media only screen and (min-width:361px) and (max-width: 768px){
+    	#smalloption{
+    		display:block;
+    	}
+	#menu{
+		display: none;
+	}
+		#Container{
+			padding:2% 2% 0;
+			text-align: justify;
+		}
+		#Container:after{
+			padding:2% 2% 0;
+			display: inline-block;
+			width:100%;
+		}
+		#Container .item{
+			text-align:center;
+			display: inline-block;
+			width:49%;
+			margin-top: 15px;
+		}
+		#Container .item img{
+			text-align:center;
+			display: inline-block;
+			width:49%;
+		}
+
+		#Container .mix{
+			text-align:center;
+			display: none;
+			width:49%;
+		}
+		#menu{
+			padding-left: 30px;
+		}
+		#menu .filter{
+			display: inline-block;
+			text-align:left;
+			padding: 5px;
+			background: blue;
+			cursor: pointer;
+			color:gold;
+			font-size:8px;
+		}
+		#menu .filter:hover{
+			background: red;
+			color:white;
+		}
+		#menu .filter.selected{
+			background: green;
+			color:yellow;
+		}
+		.addtocart{
+			color:black;
+			background:azure;
+			padding: 5px;
+			font-family: "times new roman";
+			cursor: pointer;
+		}
+		.addtocart:hover{
+			background: gold;
+			color: red;
+			cursor: pointer;
+		}
+    
+    
+    }

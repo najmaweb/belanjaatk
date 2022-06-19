@@ -1,0 +1,21 @@
+.cart_quantity_up{
+    cursor:pointer
+}
+.cart_quantity_down{
+    cursor:pointer
+}
+.number{
+    text-align: right;
+}
+.centered{
+    text-align: center;
+}
+.receipt thead tr th{
+    padding-top: 10px;
+}
+.receipt tfoot tr{
+    border-top: 1px solid black;
+}
+.receipt tfoot tr td{
+    padding-top: 10px;
+}
